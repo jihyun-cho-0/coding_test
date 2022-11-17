@@ -40,7 +40,7 @@
 
 
 ## 5. 음양 더하기 - 월간 코드 챌린지 시즌2
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/76501">문제</a> | 문제 요약 내용
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/76501">문제</a> | 절댓값의 음양값이 담긴 배열을 참고하여 실제 정수의 합 구하기
 
 #### `문제풀이(정답)`
 1. 반복문으로 절댓값 요소와 순서를 호출한다.
@@ -60,11 +60,13 @@
 
 
 ## 7. K번째수 - 정렬
-<a href="">문제</a> | 문제 요약 내용 
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/42748">문제</a> | 문제 요약 내용 
 
-#### `문제풀이()`
-1. 
-
+#### `문제풀이(정답)`
+1. 주어진 배열 'array'의 i번째부터 j번째까지의 값을 추출한다. (슬라이싱)
+(인덱스 번호는 0부터 시작하므로 슬라이싱 시작 번호에 -1을 해준다.)
+2. 오름차순으로 정렬한다.
+3. commands 배열에서 k에 -1한 값을 인덱스 번호로 사용하여 해당 값을 정답 배열에 추가한다. 
 
 
 
